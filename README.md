@@ -1,10 +1,21 @@
+> [!NOTE]
+> This is an archive of the VxKex repository from the user 'vxiiduu', whose account was deleted on the 21st of July 2024 for reasons currently unknown.
+>
+> I am not planning on maintaining VxKex any time soon, so I will be disabling the Issues page.
+
+> [!IMPORTANT]
+> There is only one release available in the releases page, which is release 1.1.1.1375.
+>
+> **Looking for other releases?** You will have to consult [the Internet Archive](https://archive.org), as this repo is only to archive the latest release before the repository disappeared.
+
+
 Introduction
 ============
 
 VxKex is a set of API extensions for Windows 7 that allow some Windows 8,
 8.1 and 10-exclusive applications to run on Windows 7.
 
-To download and install, see the [releases page](https://github.com/vxiiduu/VxKex/releases).
+To download and install, see the [releases page](https://github.com/commandcontrolQ/VxKex/releases).
 
 After installation, usage is easy: just right click on a program (.exe or .msi),
 open the Properties dialog, and select the VxKex tab. Then, check the check box
