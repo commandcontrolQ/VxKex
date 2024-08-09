@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> Whether the hash of this archived release and the original unmodified release match is unclear as of writing, as I do not possess the original hashes.
+>
+> If you have the original hash, or if you have the unmodified 1.1.1.1375 executable, **please let me know!**
+
 > [!NOTE]
 > This is an archive of the VxKex repository from the user 'vxiiduu', whose account was deleted on the 21st of July 2024 for reasons currently unknown.
 >
