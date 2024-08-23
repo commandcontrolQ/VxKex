@@ -6,7 +6,7 @@
 > [!NOTE]
 > This is an archive of the VxKex repository from the user 'vxiiduu', whose account was deleted on the 21st of July 2024 for reasons currently unknown.
 >
-> I am not planning on maintaining VxKex any time soon, so I will be disabling the Issues page.
+> UPDATE: I have made the decision to reopen the Issues page anyway for anyone having problems with VxKex, however it is up to the community to continue development.
 
 > [!IMPORTANT]
 > There is only one release available in the releases page, which is release 1.1.1.1375.
