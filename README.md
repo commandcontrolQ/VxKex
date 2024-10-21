@@ -1,17 +1,19 @@
-> [!IMPORTANT]
-> Whether the hash of this archived release and the original unmodified release match is unclear as of writing, as I do not possess the original hashes.
->
-> If you have the original hash, or if you have the unmodified 1.1.1.1375 executable, **please let me know!**
-
 > [!NOTE]
-> This is an archive of the VxKex repository from the user 'vxiiduu', whose account was deleted on the 21st of July 2024 for reasons currently unknown.
+> This is an archive of the VxKex repository from the user 'vxiiduu', whose account was deleted on the 21st of July 2024 for unknown reasons.
 >
-> UPDATE: I have made the decision to reopen the Issues page anyway for anyone having problems with VxKex, however it is up to the community to continue development.
+> UPDATE: I have decided to reopen the Issues page anyway for anyone having problems with VxKex, however, it is up to the community to continue development.
 
 > [!IMPORTANT]
-> There is only one release available in the releases page, which is release 1.1.1.1375.
+> There is only one release available, which is release 1.1.1.1375.
 >
-> **Looking for other releases?** You will have to consult [the Internet Archive](https://archive.org), as this repo is only to archive the latest release before the repository disappeared.
+> **Looking for other releases?** You should consult [the Internet Archive](https://archive.org), as this repo is only to archive the latest release.
+
+Hashes
+------
+For release 1.1.1.1375:
+- SHA256: 652f6d2901c86de4a05743b5f808fafb6e28b9720c39bce5e7e031d26cac9035
+- MD5: 8b690d6134fcfa6e742f190e6d607f46
+
 
 
 Introduction
